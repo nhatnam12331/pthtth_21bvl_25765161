@@ -4,8 +4,10 @@ public class Baitap3PTHTTH {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập vào số a:");
         int a = scanner.nextInt();
-        System.out.println("Nhập vào số b:");
+        System.out.print("Nhập vào số b:");
         int b = scanner.nextInt();
-         
+        int tong = a+b;
+        System.out.println("Tổng hai số là:" +tong);
+        scanner.close();
     }
 }
