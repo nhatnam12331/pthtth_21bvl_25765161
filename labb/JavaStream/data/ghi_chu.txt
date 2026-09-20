@@ -1,0 +1,4 @@
+Java I/O làm việc với các luồng dữ liệu.
+BufferedWriter giúp ghi văn bản hiệu quả.
+UTF-8 hỗ trợ tiếng Việt ổn định.SDòng mới 1: Thử nghiệm ghi nối tiếp vào tệp.
+Dòng mới 2: Tiếng Việt có dấu - Lập trình Java I/O.
